@@ -1,0 +1,15 @@
+a:link { 
+ 	text-decoration: none;
+ 	color:#727272;
+}
+a:hover { 
+	text-decoration:none;
+	color:#b9f605;
+}
+a:visited { 
+	text-decoration: none;
+	color: green;
+}
+.leftmenu{
+	font-size: 14px;
+}
